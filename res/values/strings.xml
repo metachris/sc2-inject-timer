@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Double Tap to Start</string>
+    <string name="app_name">SC2 Inject Timer</string>
+
+</resources>
